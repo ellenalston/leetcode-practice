@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ellenalston/leetcode-practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ellenalston/leetcode-practice/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ellenalston/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ellenalston/leetcode-practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
