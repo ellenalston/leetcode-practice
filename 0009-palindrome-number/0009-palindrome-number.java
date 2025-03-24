@@ -1,19 +1,13 @@
 class Solution {
     public boolean isPalindrome(int x) {
+        String palindrome = Integer.toString(x);
+        String reversed = "";
 
-        int reverse = 0;
-        int temp = x;
-
-        if (temp < 0) {
-            return false;
+        for (int i = palindrome.length() - 1; i >= 0; i--){
+            reversed += palindrome.charAt(i);
         }
 
-        while (temp != 0) {
-            reverse = (reverse * 10) + (temp % 10);
-            temp = temp / 10;
-        }
-
-        return (reverse == x);
+        return palindrome.equals(reversed);
 
     }
 }
